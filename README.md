@@ -1,4 +1,4 @@
-# Amazon-Product-and-reveiw---Webscrapping
+# Amazon-Product-and-Reveiw-Webscrapping
 
 
 Focus on this project was to learn Webscrapping 
